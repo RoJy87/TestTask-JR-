@@ -1,4 +1,4 @@
-# GIT request - тестовое задание JetRuby.
+# GIT request - тестовое задание.
 
 ## Запуск
 
